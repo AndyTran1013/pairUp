@@ -1,0 +1,11 @@
+#nameInput{
+	width: 100%;
+	min-height: 100px;
+	resize: none;
+	overflow: none;
+}
+
+#btn-pair{
+	margin: 0.5em 0;
+	font-size: 2em;
+}
