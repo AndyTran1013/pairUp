@@ -1,0 +1,1 @@
+A simple tool to randomly create pairs from a list of names
