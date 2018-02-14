@@ -8,7 +8,7 @@ function pairUp(){
 	output.innerHTML = "";
 
 	while (names.length !== 0){
-		for (let i = 0; i < 8 && (names.length !== 0); i++){
+		for (let i = 0; i < 2 && (names.length !== 0); i++){
 			num = Math.floor(Math.random() * names.length);
 			if (pair == ''){
 				pair = names[num];
